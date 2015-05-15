@@ -1,3 +1,0 @@
-/usr/local/share/plasma/plasma/plasmoids/org.kde.plasma.fastuserswitch/metadata.desktop
-/usr/local/share/plasma/plasma/plasmoids/org.kde.plasma.fastuserswitch/contents/ui/main.qml
-/usr/local/share/kservices5/plasma-applet-org.kde.plasma.fastuserswitch.desktop
