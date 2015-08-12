@@ -1,0 +1,4 @@
+plasmapkg2 -r org.kde.plasma.fastuserswitch
+plasmapkg2 -i .
+kbuildsycoca5
+plasmawindowed org.kde.plasma.fastuserswitch
